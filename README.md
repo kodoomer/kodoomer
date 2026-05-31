@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+there is currently no way to reach me
+
 <!--
-**kodoomer/kodoomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kodoomer/kodoomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your ShitHub profile.
 
 Here are some ideas to get you started:
 
