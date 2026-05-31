@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-there is currently no way to reach me
+if you get lucky you can contact me on telegram: [@bebryon](//bebryon.t.me)
 
 <!--
 **kodoomer/kodoomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your ShitHub profile.
